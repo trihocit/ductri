@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tri.models
 {
-    internal class Student { 
+    internal class Students { 
      public int ID { get; set; }
     }
 }
